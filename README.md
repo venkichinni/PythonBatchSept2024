@@ -1,11 +1,11 @@
 # PythonBatchSept2024
 
 
-##Gitcommands
+##Gitcommands,
     git status
     git add <filename>
-###To commit the changes
+###To commit the changes,
     git commit -m "commit message"
 
     git push origin <sourceBranch>
-    
+
