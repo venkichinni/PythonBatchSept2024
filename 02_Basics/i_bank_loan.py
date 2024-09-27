@@ -14,6 +14,7 @@ rate=float(input("Enter Annual intrest rate(r). please enter in decimals ex: 0.0
 
 time = float(input("enter time in years (t) : "))
 
+### Final Amount = P(1+(rt))
 
 final_amount = principal * (1 + (rate * time))
 
