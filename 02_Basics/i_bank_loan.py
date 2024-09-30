@@ -24,7 +24,6 @@ print (" the final amount for " + str(time) + "years will be :", final_amount)
 
 
 
-
 ##### compound intrest. A=P(1+ (r/n))**nt
 
 times_compounded = int(input("Enter the number of times interest is compounded per year: "))
